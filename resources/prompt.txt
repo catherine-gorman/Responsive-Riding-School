@@ -1,0 +1,10 @@
+In this project, you’ll build a webpage for a local club. 
+A helpful resource for finding beautiful images for your sites is Unsplash.
+
+Your project should demonstrate many of the responsive design tools you learned eg. percentages + relative units like em and rem as well as media queries.
+
+Possible responsive design concepts to demonstrate:
+
+Making images toggle to certain percentages in terms of width after a certain minimum screen size.
+Using a @media rule to change page layout and behavior based on size breakpoints.
+Employing responsive units em and rem to size and space elements with width and padding.
